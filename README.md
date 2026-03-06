@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis with SQL Server
 
-This repository contains SQL scripts designed to analyze pizza sales data stored in a Microsoft SQL Server database. The analysis includes basic, intermediate, and advanced queries to gain insights into the sales performance of different pizzas, customer preferences, and order trends.
+This repository contains SQL scripts designed to analyze pizza sales data stored in a Postgre SQL Server database. The analysis includes basic, intermediate, and advanced queries to gain insights into the sales performance of different pizzas, customer preferences, and order trends.
 
 <img width="911" height="469" alt="Coffe Dasboard" src="https://github.com/Mishra025/pizzeria-sql-project-./blob/291292bf3a91298f990d75520db39954c5c929b2/Screenshot%202026-03-07%20020018.png" />
 ## 🗂 Database Schema
@@ -70,5 +70,5 @@ The SQL scripts included in this repository focus on analyzing the following are
 
 ## 📄 Requirements
 
-- Microsoft SQL Server (or any SQL Server-compatible environment)
+- Postgre SQL Server (or any SQL Server-compatible environment)
 - A database with the above schema set up and populated with data.
